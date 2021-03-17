@@ -1,0 +1,23 @@
+03/16/2021 - Week Two Lecture Oriented
+
+Intro to OOP
+
+
+Lecture Schedule
+House Keeping 
+
+Assignments
+Discussion Questions
+Where are people getting stuck?
+- Honesty Hour
+
+Week Re-Cap 
+Assignments
+Discussions
+ 
+Intro Into Object-Oriented Programming (OOP) 
+
+What is a class
+Why would we use a class
+What is a Method?
+How to create a method
